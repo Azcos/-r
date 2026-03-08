@@ -16,7 +16,7 @@ except:
     pass
 
 # Constants
-SCREEN_WIDTH = 1500
+SCREEN_WIDTH = 1280
 SCREEN_HEIGHT = 720
 FPS = 60
 G = 6.67430e-11
